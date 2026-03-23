@@ -76,7 +76,7 @@ Aspiring Java Full Stack Developer | Java • Spring • React • SQL
 ## 📈 GitHub Status
 
 <p align="center">
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=Sslosh992&theme=nord&hide_border=false" alt="GitHub Streak Stats">
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=Sslosh922&theme=nord&hide_border=false" alt="GitHub Streak Stats">
    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
   <img width="398"
        src="https://leetcard.jacoblin.cool/KotiTarun?theme=tokyonight&font=JetBrains%20Mono&ext=contest"/>
